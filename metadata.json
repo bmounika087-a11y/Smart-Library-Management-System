@@ -1,0 +1,6 @@
+{
+  "name": "Smart Library Management System",
+  "description": "Find Books. Borrow Easily. Learn More. An elegant, modern, and colorful library management prototype with smart search, cataloging, one-click borrowing, shelf locator, and librarian administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
